@@ -1,6 +1,6 @@
 ## Hi, I'm Karina👋
 
-# 💫 About Me:
+💫 About Me:
 🔭 Currently building Full Stack Web Applications  <br>🌱 Learning Spring Boot, REST APIs & React.js  <br>💡 Interested in Frontend Development and UI Design  <br>🤝 Open to collaborating on Java & Web Projects  <br>📊 Exploring advanced concepts in Full Stack Development & Web Development<br>📫 Reach me at balkikarina007@gmail.com  <br>⚡ Fun fact: I love nature, forests, and quiet, creative spaces
 
 
